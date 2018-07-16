@@ -1,0 +1,18 @@
+{
+  "name": "mercadobitcoin",
+  "version": "1.0.0",
+  "description": "Api de consumo mercado bitcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrique dos Santos Macedo",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv-safe": "^6.0.0",
+    "mysql": "^2.15.0",
+    "querystring": "^0.2.0",
+    "unirest": "^0.5.1"
+  }
+}
